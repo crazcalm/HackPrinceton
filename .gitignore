@@ -1,3 +1,4 @@
 *.pyc
 secret.py
 .p*
+friend_db

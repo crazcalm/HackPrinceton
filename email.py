@@ -15,6 +15,8 @@ def main(body):
     # use the Web API to send your message
     s.web.send(message)
     
+    print "\n email sent!"
+    
 if __name__ == "__main__":
     main()
     
